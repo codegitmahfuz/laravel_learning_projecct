@@ -1,0 +1,42 @@
+
+*{
+    margin: 0px;
+    padding: 0px
+}
+header{
+    background-color: black;
+    height: 60px;
+}
+a{
+    display:inline-block;
+    padding: 18px;
+    text-decoration: none;
+    font-size: 22px;
+    color: white;
+
+    
+    
+    
+}
+a:hover{
+    color: green;
+    font-family: sans-serif;
+    text-transform: capitalize;
+}
+
+.footer{
+    background-color: black;
+    height: 60px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+}
+.footer p{
+    padding-top: 20px;
+    
+}
